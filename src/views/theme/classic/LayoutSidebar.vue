@@ -1,6 +1,6 @@
 <template>
     <div class="layoutSidebar">
-        left12
+        左边布局
         <hello-world :msg="getMsg"> </hello-world>
         <el-button @click="changeMsg">改变msg</el-button>
     </div>
